@@ -55,3 +55,9 @@
 </div>
 
 ###
+
+<h2 align="left">🏆 GitHub Achievements</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nhuzjak20&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
+</div>
